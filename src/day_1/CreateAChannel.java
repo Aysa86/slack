@@ -7,5 +7,6 @@ public class CreateAChannel {
         System.out.println("Batch 18");
         System.out.println("Group online-11");
         System.out.println("Cybernators");
+        System.out.println("Cybertek");
     }
 }
